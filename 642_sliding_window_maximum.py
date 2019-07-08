@@ -19,7 +19,6 @@ class Solution:
             if dq[0] == i - k + 1:
                 dq.popleft()
         return results
-            
 
     def push(self, deque, nums, i):
         while deque and nums[deque[-1]] < nums[i]:
