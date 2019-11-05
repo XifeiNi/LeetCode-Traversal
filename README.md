@@ -1,1 +1,1 @@
-# LintCode-Traversal
+# LeetCode-Traversal
