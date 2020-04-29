@@ -1,0 +1,7 @@
+6
+add -10
+add 2
+add 3
+peek
+poll
+peek
