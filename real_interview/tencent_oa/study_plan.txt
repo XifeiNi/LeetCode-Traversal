@@ -1,0 +1,17 @@
+Term 1:
+SENG2021 
+ARTS2034 Shakespearean Drama
+COMP4141
+ARTS2066 Writing for Screen
+
+Term 2:
+COMP3141
+COMP2041
+ARTS3023 Fiction Writing
+
+
+Term 3:
+ARTS3039 Jane Austen in Context
+ARTS3025 Advanced Creative Writing
+COMP4920/COMP3161 
+COMP6741 Paramterized and Exact Computation
